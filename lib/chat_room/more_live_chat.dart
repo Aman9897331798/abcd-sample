@@ -93,7 +93,7 @@ class _More_live_chatState extends State<More_live_chat> {
                         image: AssetImage("assets/cute.jpg"),
                         fit: BoxFit.cover,
                       ),
-                      borderRadius: BorderRadius.circular(6),
+                      borderRadius: BorderRadius.circular(10),
                       color: Colors.white,
                     ),
                   );
