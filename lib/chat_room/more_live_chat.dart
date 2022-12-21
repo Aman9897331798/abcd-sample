@@ -90,6 +90,8 @@ class _More_live_chatState extends State<More_live_chat> {
                     width: _query.size.width*0.3,
                     decoration: BoxDecoration(
                       image: DecorationImage(
+
+
                         image: AssetImage("assets/cute.jpg"),
                         fit: BoxFit.cover,
                       ),
